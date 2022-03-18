@@ -1,8 +1,7 @@
 ## Bem vindo ao projeto Health Track no GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/RonaldoMinholi/projeto-health-track/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Este projeto está sendo desenvolvido em etapas através das atividades da faculdade FIAP - SP.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
